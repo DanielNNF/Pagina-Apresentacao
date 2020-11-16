@@ -1,6 +1,7 @@
 @import "https://fonts.googleapis.com/css2?family=Kalam&display=swap";
 :root {
   --color-green: #50fa7b;
+  --color-back-card:#7159c1;
 }
 
 * {/*resetar o css padrão do navegador*/
@@ -77,3 +78,34 @@ header {
 #links-footer a {
   border-bottom: 1px solid var(--color-green);
 }
+
+/*==== Cards ====*/
+
+.cards { 
+  max-width: 800px;
+  margin: 0 auto;
+  display: grid;
+  g
+
+
+}
+
+.card {
+  background-color: var(--color-back-card);
+
+}
+
+.card_img_container img {
+  width: 100%;
+}
+.card_content,
+.card_info {
+  padding: 24px;
+}
+
+.card_info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+}
+
