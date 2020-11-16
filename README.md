@@ -3,19 +3,12 @@
 
 </h3></b></br>
 
-<b>Página:</b>
-
-<img alt="Logo" title="#Inicial" width="500" src="https://user-images.githubusercontent.com/62966905/84139588-87ad9280-aa26-11ea-9465-fc9d74291dd3.png">
-
-
-
-
    
 ------------------
 </br>
    📌    Sobre o projeto desenvolvido:
 
-Praticando um pouco com HTML e CSS para criação de uma página de apresentação.
+Criação de uma página de apresentação para posterior publicação.
 
 
 ------------------
@@ -25,6 +18,9 @@ Praticando um pouco com HTML e CSS para criação de uma página de apresentaç�
 
 - HTML
 - CSS
+- Javascript
+- Nunjunks
+- Nodejs
 
 </br></br>
 
